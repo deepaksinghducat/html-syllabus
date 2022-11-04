@@ -1,4 +1,4 @@
-#### HTML SYLLABUS
+# HTML SYLLABUS
 
 ### HTML Elements
 
