@@ -32,8 +32,8 @@
 # lists
 # text 
 # display (none, inline , block , inline-block)
-# flex
-# grid
-# position
+# position (fixed, sticky, relative, absolute)
 # z-index
 # media
+# flex
+# grid
